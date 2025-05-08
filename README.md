@@ -10,4 +10,3 @@
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" height="30" /></code>
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/2367px-Vue.js_Logo_2.svg.png" height="30" /></code>
 <code><img src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/vuex-store.png" height="34" /></code>
-
